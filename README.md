@@ -1,8 +1,8 @@
-- :smirk: Hi, I’m Aleksandar Luković | @CoaPro...
-- :zap: I’m currently learning JavaScript...
-- :mag: I’m looking for JavaScript Internship...
+- :smirk: Hello World, I am Aleksandar Luković | @CoaPro.
+- :zap: I am currently learning JavaScript.
+- :mag: I am looking for JavaScript Internship.
 
-:books: Most of time I working on master thesis. <br>
+:books: Most of time I am working on master thesis. <br>
 :bulb: General topic of my master thesis is *JavaScript Web applications: network programming and cybersecurity*.
 
 
