@@ -1,4 +1,4 @@
-- :smirk: Hello, I am Aleksandar Luković | @CoaPro.
+- :smirk: Hi, I am Aleksandar Luković | @CoaPro.
 - :zap: I am currently learning JavaScript.
 - :mag: I am looking for JavaScript Internship.
 
