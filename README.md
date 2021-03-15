@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning JavaScript...
 - 💞️ I’m looking for JavaScript Internship...
 
-Most of time I working on master thesis. 
+Most of time I working on master thesis. <br>
 General topic of my master thesis is JavaScript Web applications: network programming and cybersecurity.
 
 
