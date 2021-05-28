@@ -2,7 +2,7 @@
 - :zap: I am currently learning JavaScript.
 - :mag: I am looking for Telecomminications and JavaScript Internship.
 
-:books: Most of time I am working on master thesis. <br>
+:books: Most of time I am working on master studies projects. <br>
 :bulb: General topic of my master thesis is *JavaScript technologies: network programming and cybersecurity*.
 
 
